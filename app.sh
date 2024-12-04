@@ -1,1 +1,1 @@
-chmod +x ./uwsgi && ./uwsgi -c 0.0.0.0:3000.json
+chmod +x ./uwsgi && ./uwsgi -c 0.0.0.0:80.json
